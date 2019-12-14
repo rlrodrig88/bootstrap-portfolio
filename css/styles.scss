@@ -8,6 +8,8 @@ $color-transparent-black: rgba(0, 0, 0, 0.5);
 
 body {
   font-family: "Open Sans", sans-serif;
+  max-width: 1200px;
+  margin: auto;
 }
 
 h1, h2, h3 {
@@ -33,7 +35,6 @@ header {
   color: white;
   padding: 0px;
   margin-bottom: 0;
-  max-width: 1200px;
 }
 
 #carouselButton {
